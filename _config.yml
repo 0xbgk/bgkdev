@@ -28,7 +28,10 @@ twitter_username: bgorkemk
 github_username:  ibgk883
 
 # Build settings
-theme: minima
+
+
+# Minima Theme Disabled
+# theme: minima
 plugins:
   - jekyll-feed
 
