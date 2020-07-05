@@ -22,7 +22,7 @@ title: Görkem Kızılok
 email: gorkemkizilok@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Neler yazıyorum ben böyle
-baseurl: "/my-blog" # the subpath of your site, e.g. /blog
+baseurl: "/bgkdev" # the subpath of your site, e.g. /blog
 url: "https://ibgk883.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bgorkemk
 github_username:  ibgk883
