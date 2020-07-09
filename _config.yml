@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "default"  "air", "aqua", "contrast", , "dir
 
 # Site Settings
 locale                   : "en-US"
-title                    : "B.Görkem Kızılok"
+title                    : "Görkem Kızılok - Personal Webpage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "BGK"
@@ -25,8 +25,8 @@ url                      : "https://ibgk883.github.io/bgkdev/"
 baseurl                  : "/"
 repository               : "ibgk883/bgkdev"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/images/site_icon.png"
+masthead_title           : "Görkem Kızılok"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 160
 comments:
@@ -51,7 +51,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : # true , false
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -90,18 +90,17 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
   name             : "⚓Görkem Kızılok"
   avatar           : "/images/bgk.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Computer Engineer**, **Software Developer**,"
-  location         : "@localhost"
-  # email            : "gorkemkizilok@gmail.com"  
+  bio              : "Computer Engineer, Software Developer,"
+  location         : "Izmir, Turkey"
+  email            : "gorkemkizilok@gmail.com"  
   links: 
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "gorkemkizilok@gmail.com"
+      # url: "gorkemkizilok@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://ibgk883.github.io/bgkdev/"
@@ -117,30 +116,19 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-      
- 
+
+ #head_scripts:
+ # -https://code.jquery.com/jquery-3.2.1.min.js
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/bgorkemk/"
+    - label: "Spotify"
+      icon: "fab fa-fw fa-spotify"
+      url: "https://open.spotify.com/user/11100288852?si=qfCV398ITAKHmladIXFlCQ"
 
 
 # Reading Files
@@ -220,7 +208,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+ # - jekyll-feed
   
 
 # mimic GitHub Pages with --safe
@@ -229,7 +217,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+ # - jekyll-feed
 
 
 # Archives
@@ -279,9 +267,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
-      share: true
-      related: true
+      comments: true
+      share: false
+      related: false
 
   # _pages
   - scope:

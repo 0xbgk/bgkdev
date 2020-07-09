@@ -1,8 +1,9 @@
 ---
 title: ""
 permalink: /about/
-header: 
-    
+author_profile: true
+toc: true
+toc_label: "CAPTION"
 ---
 
 
