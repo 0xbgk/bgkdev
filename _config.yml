@@ -15,7 +15,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "default"  "air", "aqua", "contrast", , "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "tr-TR"
 title                    : "Görkem Kızılok - Personal Webpage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -26,7 +26,7 @@ baseurl                  : "/"
 repository               : "ibgk883/bgkdev"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/images/site_icon.png"
-masthead_title           : "Görkem Kızılok"
+masthead_title           : " "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 160
 comments:
@@ -94,8 +94,8 @@ analytics:
 author:
   name             : "⚓Görkem Kızılok"
   avatar           : "/images/bgk.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Engineer, Software Developer,"
-  location         : "Izmir, Turkey"
+  bio              : ""
+  location         : "@localhost"
   email            : "gorkemkizilok@gmail.com"  
   links: 
     - label: "Email"
@@ -103,7 +103,7 @@ author:
       # url: "gorkemkizilok@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://ibgk883.github.io/bgkdev/"
+      url: # "https://ibgk883.github.io/bgkdev/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"

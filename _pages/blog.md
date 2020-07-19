@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /blog/
-title: "My Blog Posts"
+title: ""
 author_profile: true
 header:    
 ---

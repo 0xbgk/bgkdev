@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Projects"
+  - title: "Projeler"
     url: /projects/
-  - title: "About"
+  - title: "Hakkımda"
     url: /about/
   - title: "Blog"
     url: /blog/

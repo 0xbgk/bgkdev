@@ -10,6 +10,8 @@ excerpt: ""
 mathjax: "true"
 ---
 
+Temellerini atmış olduğum ilk Github Pages + jekyll blog sayfasının ilk postundan merhabalar!
+
 # H1 Heading
 ## H2 Heading
 ### H3 Heading
