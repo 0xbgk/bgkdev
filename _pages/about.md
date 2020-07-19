@@ -103,12 +103,12 @@ Personal homepage, Ping Tester and many more on github.com/ibgk883
 
 ### **♙CERTIFICATES**
 ```    
-✔ Udemy Complete Modern JavaScript Course – ES6+ 
+✔ Complete Modern JavaScript Course – ES6+ 
 ```
 ```    
-✔ Udemy React Native: Mobile Application from Start to Advanced 
+✔ React Native: Mobile Application from Start to Advanced 
 ```
 ```    
-✔ Udemy Unity C# | 2D & 3D Game Development Course
+✔ Unity C# | 2D & 3D Game Development Course
 ```
 ### **♙REFERENCES**

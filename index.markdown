@@ -5,6 +5,8 @@ title: #""
 layout: home
 permalink: /
 date: #2016-03-23T11:48:41-04:00
+author_profile: true
+
 #header:
   #overlay_color: "#262a35"
   #overlay_filter: #""
