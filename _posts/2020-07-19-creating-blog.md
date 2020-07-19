@@ -83,12 +83,12 @@ komutu bulunmakta. VS Code'da **ctrl+shift+é** kombinasyonu ile terminali açı
 
 Yine Vs Code'da **ctrl+shift+p** ye basıyoruz ve bu sefer **commit** yazıp entera basıyoruz. `my-blog created` tarzı bir commit sonrası
 
-![website-commit](/images/creating-blog/19.07.6.jpg)
+![website-commit]({{ site.url }}/images/creating-blog/19.07.6.jpg)
 
 Son olarakta **ctrl+shift+p** ve bu sefer **sync** enter.
 Bu şekilde ilk oluşturduğumuz link üzerinden blog sayfamızı görüntüleyebiliriz.
 
-![website-sync-push](/images/creating-blog/19.07.7.jpg)
+![website-sync-push]({{ site.url }}/images/creating-blog/19.07.7.jpg)
 
 ```
 xxx.github.io/my-blog/

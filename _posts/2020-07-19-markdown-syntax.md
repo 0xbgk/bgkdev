@@ -56,6 +56,6 @@ Sayfaları oluştururken kullanacağım ve bana yol göstermesi için ileride d�
 
 ## Images
 
-![bgk](/images/site_icon.png)
+![bgk]({{ site.url }}/images/site_icon.png)
 
     ![site_icon](/images/site_icon.png)
