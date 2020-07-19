@@ -34,11 +34,11 @@ Editor olarak Visual Studio Code ilerde blog sayfası oluşturmada, githuba push
 İsmini my-blog verebilirsiniz.
 [Github New Repository](https://github.com/new)
 
-![new repo](/images/creating-blog/19.07.1.jpg)
+![new repo]({{ site.url }}/images/creating-blog/19.07.1.jpg)
 
 Repository oluşturduktan sonra Ayarlardan Github Pages Kısmında Source kısmını **master branch** seçiyoruz.
 
-![master branch](/images/creating-blog/19.07.2.jpg)
+![master branch]({{ site.url }}/images/creating-blog/19.07.2.jpg)
 
 Ve Bu işlem de bittikten sonra artık github pages sayfasına bu link ile ulaşabilirsiniz.
 ```
@@ -47,7 +47,7 @@ xxx.github.io/my-blog/
 
 ### VS Code ile Locale Github Repository'yi Alma
 Vs Code'da **ctrl+shift+p** ye basıyoruz ve **clone** yazıp entera basıyoruz.
-![clone](/images/creating-blog/19.07.3.jpg)
+![clone]({{ site.url }}/images/creating-blog/19.07.3.jpg)
 
 Daha sonra gelen pencereye Github Repositoryimizin **url**'sini giriyoruz, nereye oluşturulacağını seçtikten sonra clonelanma işi tamamdır. 
 
@@ -58,7 +58,7 @@ jekyll new . --force
 ```
 komutunu çalıştırıyoruz. Bu komut bize **_config.yml**, **Gemfile**, **Gemfile.lock**, **index.markdown** gibi dosyaları kuruyor, gerekli ayarlamaları yapıyor.
 
-![files](/images/creating-blog/19.07.4.jpg)
+![files]({{ site.url }}/images/creating-blog/19.07.4.jpg)
 
 **_config.yml** dosyası içinde **baseurl** ve **url** bulup repositorymize göre adlarını değiştiriyoruz.
 
@@ -75,7 +75,7 @@ Oluşturulan dosyalar arasında Gemfile dosyası içinde de görüleceği gibi y
 ```
 komutu bulunmakta. VS Code'da **ctrl+shift+é** kombinasyonu ile terminali açıp bu komut satırını çalıştırıyoruz.
 
-![local-website](/images/creating-blog/19.07.5.jpg)
+![local-website]({{ site.url }}/images/creating-blog/19.07.5.jpg)
 
 ### Github'a Commit ve Push
 Şu ana kadar localde çalışan bir blogumuz var ve bunu github pages üzerine aktarma işlemine gelirsek.
