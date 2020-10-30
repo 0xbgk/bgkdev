@@ -1,7 +1,6 @@
 ---
 title:  "React Native Uygulama - Tahmin Et Genel Kültür"
 date:   2020-10-30 12:24:56 +0300
-categories: jekyll update
 tages: [react native android game]
 header: 
     images:
