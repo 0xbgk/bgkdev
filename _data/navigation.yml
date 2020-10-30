@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Projeler"
-    url: /projects/
+  #- title: "Projeler"
+  #  url: /projects/
   - title: "Hakkımda"
     url: /about/
   - title: "Blog"
