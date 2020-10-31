@@ -1,6 +1,6 @@
 ---
 title:  "Unity 2D Oyun - Brick Breaker"
-date:   2020-10-30 12:24:56 +0300
+date:   2020-10-31 13:37:56 +0300
 tages: [unity c# android game]
 header: 
     images:
@@ -9,7 +9,7 @@ excerpt: ""
 mathjax: "true"
 ---
 
-Unity öğrenmek için geliştirdiğim bu projenin Android için APK'sını aşağıda bulabilirsiniz.
+Unity öğrenmek için geliştirdiğim bu projenin Android için APK'sını aşağıda bulabilirsiniz. Ayrıca tüm kaynak kodları, res dosyaları mevcuttur.
 
 # Brick Breaker Unity Game
 ![genel_pano](https://lh3.googleusercontent.com/3rueUXQafD7xB2jkTtgmvk7NXQksVFtKmKd_Lk_I3vRDgLO7KZcr4p_xoCLWB-GCm-x9)
