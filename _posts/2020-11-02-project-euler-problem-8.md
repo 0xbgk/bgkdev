@@ -1,6 +1,6 @@
 ---
 title:  "Project Euler Problem - 8"
-date:   2020-11-02 14:31:35 +0300
+date:   2020-11-02 14:52:35 +0300
 tages: [project euler c# problems problem 8]
 header: 
     images:
@@ -48,7 +48,7 @@ Find the thirteen adjacent digits in the 1000-digit number that have the greates
 - Benim programım **0.545** saniye sürdü.
 - Sonuç **197**.Sırada bulduğu **23514624000**
 
-![return](https://i.imgur.com/As5yK3f.png)
+![return](https://i.imgur.com/ETksYeL.png)
 <br>
 
 ```c#
