@@ -17,6 +17,16 @@ Also, I always try to be precise and trustworthy, I try to be human!*♫
 
 ### **♙WORK EXPERIENCE**
 ```    
+▻ Software Developer - Computer Enginner
+⚐ MSB Çorlu İnşaat Emlak Bölge Başkanlığı  Oct 2019 – Oct 2020 
+    
+✎ Worked like Profession Lieutenant,
+✎ Network Management,
+✎ Hardware and Software Program Support,
+✎ Printer Problems,
+✎ İnternet cameras and Turnstile systems
+```
+```    
 ▻ Software Developer - IT
 ⚐ Özfiliz Elektronik - İnşaat San. June 2018 – Aug 2018 
     
