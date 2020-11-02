@@ -23,7 +23,7 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 - Alttaki kod bloğunda basit bir şekilde 1000e kadar çıkarken 3 yada 5'in katı olan sayıları genel toplamımıza ekliyoruz.
 - Hangi sayıyı eklediğimizi ve en son toplamı ekrana yazdırıyoruz.
 - Ayrıca programın kaç saniye sürdüğünü öğrenmek için bir sayaç tanımlıyoruz.
-- Benim programım 0.168 saniye sürdü.
+- Benim programım **0.168** saniye sürdü.
 - Sonuç **233168**
 
 ![return](https://i.imgur.com/M7XiDaq.png)
