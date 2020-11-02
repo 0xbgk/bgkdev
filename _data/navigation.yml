@@ -2,10 +2,10 @@
 main:
   #- title: "Projeler"
   #  url: /projects/
-  - title: "Hakkımda"
-    url: /about/
   - title: "Blog"
     url: /blog/
+  - title: "Hakkımda"
+    url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
