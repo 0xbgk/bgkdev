@@ -1,14 +1,14 @@
 ---
 title:  "Project Euler Problem - 2"
 date:   2020-11-02 13:30:35 +0300
-tages: [project euler c# problems]
+tages: [project euler c# problems problem 2]
 header: 
     images:
 
 excerpt: ""
 mathjax: "true"
 ---
-Project Euler üzerinde çözdüğüm soruları yayınladığım kısımda problem 2'ye hoşgeldiniz. 
+Project Euler üzerinde çözdüğüm soruları yayınladığım kısımda **Problem 2**'ye hoşgeldiniz. 
 Birlikte algoritma kurma yeteneğimizi eğlenceli matematik problemleri ile güçlendirelim. 
 Bu blog yazılarında genel olarak sorulara nasıl yaklaştığım ve çözüm için uyguladığım kodları paylaşacağım.
 Bütün çözümleri github repomda daha detaylı bulabilirsiniz.

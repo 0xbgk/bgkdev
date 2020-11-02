@@ -1,7 +1,7 @@
 ---
 title:  "Project Euler Problem - 1"
 date:   2020-11-02 13:26:56 +0300
-tages: [project euler c# problems]
+tages: [project euler c# problems problem 1]
 header: 
     images:
 
